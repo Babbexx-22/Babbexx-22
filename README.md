@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Babbexx-22
+- 👋 Hi, I’m @Babbexx22. A certified AWS Solutions Architect and an aspiring Cloud DevOps Engineer. 
 - 👀 I’m interested in learning and honing my skills in the cloud computing space/DEVOps engineering field.
 - 🌱 I’m currently learning AWS infrasturctures and DevOps tools and open to entry level roles in the respective fields.
 - 💞️ I’m looking to collaborate and make productive connections
